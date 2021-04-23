@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "SPIEGEL Minus",
+  "version": "1.0",
+
+  "icons": {
+    "16": "minus.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.spiegel.de/*"],
+      "js": ["minus.js"]
+    }
+  ]
+
+}

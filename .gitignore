@@ -1,0 +1,9 @@
+# tools
+/.editorconfig
+/.idea
+
+# artifacts
+/minus.zip
+
+# misc
+/README.md

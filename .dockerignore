@@ -1,0 +1,10 @@
+/.git
+/.idea
+/.editorconfig
+/.gitignore
+
+# build/artifacts
+/build.dockerfile
+/build.sh
+/minus.zip
+
